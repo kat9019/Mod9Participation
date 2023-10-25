@@ -1,1 +1,1 @@
-from boos import module1
+from boos import printBoo
